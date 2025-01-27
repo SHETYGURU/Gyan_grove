@@ -3,7 +3,10 @@
 # Inventory Management Dashboard
 
 A responsive inventory management dashboard built with React, Firebase, and Tailwind CSS. This application allows users to manage inventory items, including adding, editing, deleting, and filtering items. Users can also view inventory data across multiple pages.
+
  ## Live Demo
+ You can view the live demo of this project [here](https://gyangrovesite.netlify.app/).
+
  
 ## Features
 
